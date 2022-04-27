@@ -1,0 +1,20 @@
+# bluesim intermediate files
+*.bo
+
+# implementation files
+*.ba
+mk*
+*.cxx
+*.h
+*.o
+
+# output files
+out
+
+# shared libs
+out.so
+
+# verilog outputs
+out_v
+*.v
+
