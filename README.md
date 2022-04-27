@@ -37,4 +37,4 @@
 ---
 ## More resources
 - support@bluespec.com
-- 
+- https://web.ece.ucsb.edu/its/bluespec/index.html 
