@@ -34,6 +34,7 @@
     ```
     If *c1* and *c2* are both true, Which rule will execute? 
 - [ ] Difference between nesting put and get as interfaces instead of defining them as methods
+- [ ] What is the purpose of `#` in `Int #(32)`
 ---
 ## More resources
 - support@bluespec.com
