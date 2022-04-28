@@ -23,7 +23,8 @@
 ---
 ## Doubts
 - [ ] Cannot index into a Reg#(int) using `[]`, Compiler throws up error
-- [x]   ```
+- [x] If *c1* and *c2* are both true, Which rule will execute? 
+```
     rule r1 (c1);
       x <= y + 1;
     endrule : r1
@@ -31,8 +32,7 @@
     rule r2 (c2);
       y <= x + 2;
     endrule : r2
-    ```
-    If *c1* and *c2* are both true, Which rule will execute? 
+```
 - [ ] Difference between nesting put and get as interfaces instead of defining them as methods
 - [ ] What is the purpose of `#` in `Int #(32)`
 ---
